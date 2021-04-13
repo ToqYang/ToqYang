@@ -16,6 +16,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I created my first Udemy course at 15 years old about video games....
 
 
+<br/>
+<br/>
+
+# 📖 Learning
+
+<br/>
+
 [![Exercises in C](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=BookExercise)](https://github.com/anuraghazra/github-readme-stats)
+[![Learning Front End](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-web_front_end)](https://github.com/anuraghazra/github-readme-stats)
+[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-web_back_end)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
+
+# 💻 Technical Projects
+
+<br/>
+
+[![Low Level Programming](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-low_level_programming)](https://github.com/anuraghazra/github-readme-stats)
+[![Simple Shell](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=simple_shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Printf](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=printf)](https://github.com/anuraghazra/github-readme-stats)
+[![Command ls in C](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-system_linux)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ToqYang stats](https://github-readme-stats.vercel.app/api/wakatime?username=ToqYang)](https://github.com/anuraghazra/github-readme-stats)
