@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ToqYang/ToqYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-# 📖 Learning
+## 📖 Learning
 
 <br/>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-# 💻 Technical Projects
+## 💻 Technical Projects
 
 <br/>
 
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 [![Printf](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=printf)](https://github.com/anuraghazra/github-readme-stats)
 [![Command ls in C](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-system_linux)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ToqYang stats](https://github-readme-stats.vercel.app/api/wakatime?username=ToqYang)](https://github.com/anuraghazra/github-readme-stats)
+
