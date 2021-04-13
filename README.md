@@ -15,11 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/toqyang)...
 - ⚡ Fun fact: I created my first Udemy course at 15 years old about video games....
 
-<a href='https://github.com/ToqYang/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/ToqYang/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/ToqYang/github-stats-transparent/output/generated/languages.svg)
 
-</a>
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToqYang)](https://github.com/anuraghazra/github-readme-stats)
