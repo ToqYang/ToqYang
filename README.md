@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <br/>
 
 [![Exercises in C](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=BookExercise)](https://github.com/ToqYang/BookExercise)
-[![Learning Front End](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-web_front_end)](https://github.com/anuraghazra/github-readme-stats)
-[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-web_back_end)](https://github.com/anuraghazra/github-readme-stats)
+[![Learning Front End](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-web_front_end)](https://github.com/ToqYang/holbertonschool-web_front_end)
+[![Backend](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-web_back_end)](https://github.com/ToqYang/holbertonschool-web_back_end)
 
 <br/>
 <br/>
@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Low Level Programming](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-low_level_programming)](https://github.com/anuraghazra/github-readme-stats)
-[![Simple Shell](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=simple_shell)](https://github.com/anuraghazra/github-readme-stats)
-[![Printf](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=printf)](https://github.com/anuraghazra/github-readme-stats)
-[![Command ls in C](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-system_linux)](https://github.com/anuraghazra/github-readme-stats)
+[![Low Level Programming](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-low_level_programming)](https://github.com/ToqYang/holbertonschool-low_level_programming)
+[![Simple Shell](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=simple_shell)](https://github.com/ToqYang/simple_shell)
+[![Printf](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=printf)](https://github.com/ToqYang/printf)
+[![Command ls in C](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-system_linux)](https://github.com/ToqYang/holbertonschool-system_linux)
 
 
