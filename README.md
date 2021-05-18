@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Exercises in C](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=BookExercise)](https://github.com/anuraghazra/github-readme-stats)
+[![Exercises in C](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=BookExercise)](https://github.com/ToqYang/BookExercise)
 [![Learning Front End](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-web_front_end)](https://github.com/anuraghazra/github-readme-stats)
 [![Backend](https://github-readme-stats.vercel.app/api/pin/?username=ToqYang&repo=holbertonschool-web_back_end)](https://github.com/anuraghazra/github-readme-stats)
 
